@@ -4,11 +4,11 @@ A comparison of a non-personalized Popularity baseline against a Matrix Factoriz
 model trained with implicit ALS, evaluated on the Amazon Reviews 2023 (Movies_and_TV,
 5-core) dataset under a leave-last-out protocol.
 
-## Research Question
+### Research Question
 Does a Matrix Factorization / implicit ALS model improve ranking quality (NDCG@10)
 over a Popularity baseline, and if so, at what cost in terms of catalogue coverage?
 
-## Dataset
+### Dataset
 Amazon Reviews 2023 (McAuley Lab, UCSD), Movies_and_TV category, 5-core filtered.
 Source: https://github.com/hyp1231/AmazonReviews2023
 
@@ -23,7 +23,7 @@ train.parquet. To regenerate these: download the raw files from the link above,
 then run `EDA.ipynb` (produces merged_movies_tv.parquet) followed by `split.ipynb`
 (produces train/validation/test.parquet).
 
-## Notebooks (run in this order)
+### Notebooks (run in this order)
 1. `EDA.ipynb` — loads raw ratings + metadata, merges them, exploratory analysis
    (sparsity, rating distribution, metadata coverage by category).
 2. `split.ipynb` — builds the leave-last-out train/validation/test split.
@@ -35,16 +35,16 @@ then run `EDA.ipynb` (produces merged_movies_tv.parquet) followed by `split.ipyn
 7. `results_summary.ipynb` — compiles results from the above notebooks, statistical
    significance testing (Wilcoxon), and overall takeaways.
 
-## Setup
+### Setup
 ```bash
 python -m venv .venv
 source .venv/bin/activate
 pip install pandas pyarrow matplotlib implicit scipy
 ```
 
-## Report
+### Report
 See `final_report_tasdelen_duelger.docx` for the full write-up, including
 methodology, results, discussion, limitations, and the AI-use disclosure.
 
-## Authors
+### Authors
 Dila Tasdelen and Havva Seda Duelger
