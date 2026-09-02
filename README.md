@@ -4,9 +4,12 @@ A comparison of a non-personalized Popularity baseline against a Matrix Factoriz
 model trained with implicit ALS, evaluated on the Amazon Reviews 2023 (Movies_and_TV,
 5-core) dataset under a leave-last-out protocol.
 
-### Research Question
-Does a Matrix Factorization / implicit ALS model improve ranking quality (NDCG@10)
-over a Popularity baseline, and if so, at what cost in terms of catalogue coverage?
+### Research Questions
+RQ1: When we test the system with a leave-last-out setup, does MF/implicit ALS improve 
+ranking quality (NDCG@10) over a Popularity baseline? 
+
+RQ2: What trade-off does MF/implicit ALS create for catalogue coverage relative to the 
+Popularity baseline? 
 
 ### Dataset
 Amazon Reviews 2023 (McAuley Lab, UCSD), Movies_and_TV category, 5-core filtered.
