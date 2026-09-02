@@ -1,4 +1,4 @@
-# Recommender Systems Project — Core Ranking (Popularity vs. MF/ALS)
+### Recommender Systems Project — Core Ranking (Popularity vs. MF/ALS)
 
 A comparison of a non-personalized Popularity baseline against a Matrix Factorization
 model trained with implicit ALS, evaluated on the Amazon Reviews 2023 (Movies_and_TV,
