@@ -1,0 +1,4 @@
+config,NDCG@10 (validation)
+original,0.017183641643400388
+fewer_factors,0.014848311260117304
+more_regularization,0.01718909968444516

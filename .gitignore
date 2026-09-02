@@ -1,8 +1,9 @@
 .venv/
-datasets/
 __pycache__/
 .ipynb_checkpoints/
 *.pyc
 .DS_Store
-EOF
-analysis_seda.ipynb
+datasets/meta_Movies_and_TV.jsonl
+datasets/Movies_and_TV.csv
+datasets/merged_movies_tv.parquet
+datasets/train.parquet

@@ -1,0 +1,16 @@
+user_id,history_genres,recommended_genres,matched_genres,match_ratio
+AGTN4DZY5KKT6KJX6CFH23NABN7Q,Action & Adventure,Action & Adventure,Action & Adventure,1.0
+AHIVSX3WQFVLNZMNCYDCYWOJAW6A,"Comedy, Sports","Drama, Suspense",—,0.0
+AFMU4B4QB2TIY2NMD3OQYZVMETLA,"Comedy, Drama, Romance, Science Fiction, Suspense","Drama, Science Fiction, Suspense","Drama, Science Fiction, Suspense",1.0
+AEIMBFM5FVJLSPYHDSXFUXII4TUQ,"Comedy, Science Fiction","Action, Adventure, Drama, Science Fiction, Suspense",Science Fiction,0.2
+AHDBMW7AGSO7KRPZIC6VQ7PNK63Q,Drama,"Action, Action & Adventure, Adventure, Drama, Suspense",Drama,0.2
+AEK26324Y2JWZMZRLMAN6ZJZYTLQ,"Action & Adventure, Drama","Action, Comedy, Science Fiction",—,0.0
+AFDWNYPISURWQGFTDRJNJ5JRC6FQ,Action & Adventure,Action & Adventure,Action & Adventure,1.0
+AHGELNUX3UTV2C2TI4FQ2NICTVQQ,"Action & Adventure, Drama","Action, Comedy, Science Fiction",—,0.0
+AFVI3CR47V5IEMIYXU7IVOIJFDRQ,Action & Adventure,Action & Adventure,Action & Adventure,1.0
+AGSEZBRI3ZLAPZDGIBUSV56OM3JQ,"Action, Action & Adventure, Drama, Science Fiction","Action, Comedy, Drama, Horror, Science Fiction","Action, Drama, Science Fiction",0.6
+AGBWSLBL7HZ7TDNI2RDRSHTMHTAQ,"Action, Drama, Suspense","Action, Comedy, Documentary, Drama, Suspense","Action, Drama, Suspense",0.6
+AF24C654MP2FT4DQXAUO365N5ISA,"Action & Adventure, Animation, Comedy, Drama, Science Fiction","Action & Adventure, Fantasy",Action & Adventure,0.5
+AFMDSXT5OKDLLK5MK7ZON567ASZA,Science Fiction,Action & Adventure,—,0.0
+AFLJ6MSZEYHS2JCCE74YOU7WXXVQ,"Action & Adventure, Drama","Action & Adventure, Fantasy",Action & Adventure,0.5
+AHVKMVVKU44UPVK6KNUC577UBV7A,"Action & Adventure, Comedy, Horror","Action & Adventure, Fantasy",Action & Adventure,0.5
